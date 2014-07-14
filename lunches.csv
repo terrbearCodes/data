@@ -1,0 +1,394 @@
+Day,Location,Food,City,Extra
+2013-01-07,Whole Foods,Burrito,Denver,Chicken
+2013-01-08,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-01-09,Big City,Burrito,Denver, (Potato)
+2013-01-10,Chipotle,Burrito,Denver, (Steak)
+2013-01-11,La Fogata,Burrito,Denver, (Steak)
+2013-01-14,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-01-15,Lark Burger,Burger,Denver,
+2013-01-16,Whole Foods,Pizza,Denver,
+2013-01-17,Whole Foods,Burrito,Denver, (Chicken)
+2013-01-18,Noodles & Company,Mac & Cheese,Denver,
+2013-01-21,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-01-22,Whole Foods,Pizza,Denver,
+2013-01-23,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-01-24,Noodles & Company,Mac & Cheese,Denver,
+2013-01-25,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-01-28,Whole Foods,Burrito,Denver, (Chicken)
+2013-01-29,Whole Foods,Sandwich,Denver,
+2013-01-30,Lark Burger,Burger,Denver,
+2013-01-31,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-02-01,zPizza,Pizza,Denver,
+2013-02-04,Whole Foods,Pizza,Denver,
+2013-02-05,Chipotle,Burrito,Denver, (Steak)
+2013-02-06,Noodles & Company,Mac & Cheese,Denver,
+2013-02-07,Whole Foods,Burrito,Denver, (Chicken)
+2013-02-08,Lark Burger,Burger,Denver,
+2013-02-11,Noodles & Company,Mac & Cheese,Denver,
+2013-02-12,Brother's,BBQ,Denver,
+2013-02-13,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-02-14,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-02-15,Noodles & Company,Mac & Cheese,Denver,
+2013-02-18,Whole Foods,Burrito,Denver, (Chicken)
+2013-02-19,Lark Burger,Burger,Denver,
+2013-02-20,Big City,Burrito,Denver, (Potato)
+2013-02-21,Lark Burger,Burger,Denver,
+2013-02-22,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-02-25,Whole Foods,Sandwich,Denver, (Turkey Bacon)
+2013-02-26,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-02-27,Whole Foods,Pizza,Denver,
+2013-02-28,CSU,Sandwich,Fort Collins, (Turkey)
+2013-03-01,Chipotle,Burrito,Denver, (Steak)
+2013-03-04,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-03-05,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-03-06,Whole Foods,Burrito,Denver, (Chicken)
+2013-03-07,Lark Burger,Burger,Denver,
+2013-03-08,Chipotle,Burrito,Aurora, (Steak)
+2013-03-11,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-03-12,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-03-13,DIA,Pizza,Denver,
+2013-03-14,Heritage Conference Room,Manicotti,Ft. Wayne,
+2013-03-15,IND,Burger,Indianapolis,
+2013-03-18,Lark Burger,Burger,Denver,
+2013-03-19,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-03-20,Which Wich,Sandwich,Denver, (Ham & Pineapple)
+2013-03-21,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-03-22,Jimmy John's,Sandwich,Denver, (Italian)
+2013-03-25,Noodles & Company,Mac & Cheese,Denver,
+2013-03-26,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-03-27,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-03-28,Whole Foods,Burrito,Denver, (Chicken)
+2013-03-29,Brother's,BBQ,Denver,
+2013-04-01,Noodles & Company,Mac & Cheese,Denver,
+2013-04-02,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-04-03,Brown Bag,Brown Bag,Denver,Tacos
+2013-04-04,Brown Bag,Brown Bag,Denver,Italian Sausage
+2013-04-05,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-04-08,,,Dayton,
+2013-04-09,DoubleDay's,Pizza,Dayton,
+2013-04-10,Five Guys,Burger,Dayton,
+2013-04-11,J. Alexanders,Burger,Dayton,
+2013-04-12,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-04-15,Brown Bag,Brown Bag,Denver,Tacos
+2013-04-16,Noodles & Company,Mac & Cheese,Fort Collins,
+2013-04-17,SubWay,Sandwich,Denver, (bmt)
+2013-04-18,Big City,Burrito,Denver, (Potato)
+2013-04-19,Lark Burger,Burger,Denver,
+2013-04-22,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-04-23,Brown Bag,Brown Bag,Denver,Italian Sausage
+2013-04-24,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-04-25,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-04-26,Big City,Burrito,Denver, (Potato)
+2013-04-29,Lark Burger,Burger,Denver,
+2013-04-30,Whole Foods,Burrito,Denver, (Chicken)
+2013-05-01,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-05-02,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-05-03,Brother's,BBQ,Denver,
+2013-05-06,Apple Spice Junction,Sandwich,Ft. Wayne, (Roast Beef)
+2013-05-07,Apple Spice Junction,Sandwich,Ft. Wayne, (Pastrami)
+2013-05-08,Noodles & Company,Mac & Cheese,Denver,
+2013-05-09,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-05-10,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-05-13,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-05-14,Lark Burger,Burger,Denver,
+2013-05-15,Pat's,Cheesesteak,Denver,
+2013-05-16,Which Wich,Sandwich,Denver, (Ham)
+2013-05-17,Chipotle,Burrito,Denver, (Steak)
+2013-05-20,Smash Burger,Burger,Denver, (Colorado)
+2013-05-21,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-05-22,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-05-23,PTO,PTO,Denver,
+2013-05-24,PTO,PTO,Denver,
+2013-05-27,Holiday,Holiday,Denver,
+2013-05-28,Chipotle,Burrito,Denver, (Steak)
+2013-05-29,Lark Burger,Burger,Denver,
+2013-05-30,Noodles & Company,Mac & Cheese,Denver,
+2013-05-31,Dam Grille,Burger,Denver,
+2013-06-03,Noodles & Company,Mac & Cheese,Denver,
+2013-06-04,Lark Burger,Burger,Denver,
+2013-06-05,Baker's St Pub,Burger,Denver,
+2013-06-06,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-06-07,La Fogata,Burrito,Denver, (Chorrizo)
+2013-06-10,Lark Burger,Burger,Denver,
+2013-06-11,McDonalds,Burger,Aurora,
+2013-06-12,SubWay,Sandwich,Denver, (BMT)
+2013-06-13,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-06-14,Big City,Burrito,Denver, (Potato)
+2013-06-17,SubWay,Sandwich,Denver, (Club)
+2013-06-18,Ali Baba Grill,Gyros,Denver,
+2013-06-20,Whole Foods,Burrito,Denver, (Chicken)
+2013-06-21,Noodles & Company,Mac & Cheese,Denver,
+2013-06-24,SubWay,Sandwich,Denver, (BMT)
+2013-06-25,(Johnstone),Pizza,Portland,
+2013-06-26,Big City,Burrito,Denver, (Breakfast)
+2013-06-27,Which Wich,Sandwich,Denver, (Ham)
+2013-06-28,Lark Burger,Burger,Denver,
+2013-07-01,Marriott,Burrito,Dayton,
+2013-07-02,Marriott,Sandwich,Dayton,
+2013-07-03,A&W,Burger,??,PTO
+2013-07-04,SubWay,Sandwich,Estes Park,Holiday (BMT)
+2013-07-05,Arby's,Sandwich,Aurora,PTO (Roast Beef)
+2013-07-08,Jason's Deli,Sandwich,Denver, (Pastrami)
+2013-07-09,Ali Baba Grill,Gyros,Denver,
+2013-07-10,Which Wich,Sandwich,Denver, (Ham)
+2013-07-11,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-07-12,Lark Burger,Burger,Denver,
+2013-07-15,Noodles & Company,Mac & Cheese,Denver,
+2013-07-16,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-07-17,Lark Burger,Burger,Denver,
+2013-07-18,Chipotle,Burrito,Denver, (Barbacoa)
+2013-07-19,Brother's,BBQ,Denver,
+2013-07-22,Which Wich,Sandwich,Denver, (Ham)
+2013-07-23,Lark Burger,Burger,Denver,
+2013-07-24,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-07-25,Noodles & Company,Mac & Cheese,Denver,
+2013-07-26,Big City,Burrito,Denver, (Potato)
+2013-07-29,Chick-fil-A,Sandwich,Denver,
+2013-07-30,Illegal Pete's,Burrito,Denver,
+2013-07-31,Noodles & Company,Mac & Cheese,Denver,
+2013-08-01,Chipotle,Burrito,Denver, (Steak)
+2013-08-02,Lark Burger,Burger,Denver,
+2013-08-05,Jason's Deli,Sandwich,Denver, (French Dip)
+2013-08-06,Lark Burger,Burger,Denver,
+2013-08-07,Noodles & Company,Mac & Cheese,Denver,
+2013-08-08,Chipotle,Burrito,Denver,Tacos
+2013-08-09,Dominos,Pizza,Denver,
+2013-08-12,Lark Burger,Burger,Denver,
+2013-08-13,Fel Fel,Gyros,Denver,Beef Shawarma
+2013-08-14,Noodles & Company,Mac & Cheese,Denver,
+2013-08-15,Baker's St Pub,Burger,Denver,
+2013-08-16,Illegal Pete's,Burrito,Denver,
+2013-08-19,Ali Baba Grill,Gyros,Denver,
+2013-08-20,Big City,Burrito,Denver,
+2013-08-21,Noodles & Company,Mac & Cheese,Denver,
+2013-08-22,Lark Burger,Burger,Denver,
+2013-08-23,Jason's Deli,Sandwich,Denver,
+2013-08-26,Illegal Pete's,Burrito,Denver,
+2013-08-27,Smash Burger,Burger,Denver,
+2013-08-28,Noodles & Company,Mac & Cheese,Denver,
+2013-08-29,SubWay,Sandwich,Denver,
+2013-08-30,Illegal Pete's,Burrito,Denver,
+2013-09-03,Which Wich,Sandwich,Denver,
+2013-09-04,Brother's,BBQ,Denver,
+2013-09-05,Lark Burger,Burger,Denver,
+2013-09-06,Whole Foods,Burrito,Denver,
+2013-09-09,Noodles & Company,Mac & Cheese,Denver,
+2013-09-10,Chipotle,Burrito,Denver,
+2013-09-11,Which Wich,Sandwich,Denver,
+2013-09-12,FLOOD,PTO,Denver,
+2013-09-13,FLOOD,PTO,Denver,
+2013-09-16,Illegal Pete's,Burrito,Denver,
+2013-09-17,Noodles & Company,Mac & Cheese,Denver,
+2013-09-18,Chipotle,Burrito,Denver,
+2013-09-19,CSU,Sandwich,Denver,
+2013-09-20,Lark Burger,Burger,Denver,
+2013-09-23,Baker's St Pub,Burger,Denver,
+2013-09-24,Ali Baba Grill,Gyros,Denver,
+2013-09-25,Big City,Burrito,Denver,
+2013-09-26,Brother's,BBQ,Denver,
+2013-09-27,Lark Burger,Burger,Denver,
+2013-09-30,PTO,PTO,Newport,
+2013-10-01,PTO,PTO,Anaheim,
+2013-10-02,PTO,PTO,Newport,
+2013-10-03,PTO,PTO,Anaheim,
+2013-10-04,PTO,PTO,San Diego,
+2013-10-07,Illegal Pete's,Burrito,Denver,
+2013-10-08,Smash Burger,Burger,Denver,
+2013-10-09,La Sandia,Burrito,Denver,
+2013-10-10,Noodles & Company,Mac & Cheese,Denver,
+2013-10-11,Lark Burger,Burger,Denver,
+2013-10-14,Jason's Deli,Sandwich,Denver,
+2013-10-15,Noodles & Company,Mac & Cheese,Denver,
+2013-10-16,Red Robin,Burger,Denver,
+2013-10-17,Big City,Burrito,Denver,
+2013-10-18,Lil' Riccis,Pizza,Denver,
+2013-10-21,Which Wich,Sandwich,Denver,French Dip
+2013-10-22,Lark Burger,Burger,Denver,
+2013-10-23,Chipotle,Burrito,Denver,Carnitas
+2013-10-24,OFFICE,Potluck,Denver,
+2013-10-25,Noodles & Company,Mac & Cheese,Denver,
+2013-10-28,Illegal Pete's,Burrito,Denver,Green Chile
+2013-10-29,Smash Burger,Burger,Denver,
+2013-10-30,Which Wich,Sandwich,Denver,Ham
+2013-10-31,Chipotle,Burrito,Denver,Carnitas
+2013-11-01,Noodles & Company,Mac & Cheese,Denver,
+2013-11-04,Sheraton,Burger,Portland,
+2013-11-05,Box23,Sandwich,Portland,Ham
+2013-11-06,Box23,Sandwich,Portland,Turkey
+2013-11-07,Chipotle,Burrito,Denver,Carnitas
+2013-11-08,Lark Burger,Burger,Denver,
+2013-11-11,Illegal Pete's,Burrito,Denver,Green Chile
+2013-11-12,Lark Burger,Burger,Denver,
+2013-11-13,Chipotle,Burrito,Dnver,Carnitas
+2013-11-14,Red Robin,Burger,Denver,
+2013-11-15,NFJS,NFJS,Denver,
+2013-11-18,Big City,Burrito,Denver,Potato
+2013-11-19,Lands End,Pizza,Dodgeville,
+2013-11-20,Lands End,Pizza,Dodgeville,
+2013-11-21,Casa Del Sol,Burrito,Madison,Beef
+2013-11-22,Chipotle,Burrito,Denver,Carnitas
+2013-11-25,KFC,Sandwich,Aurora,Chicken
+2013-11-26,Red Robin,Burger,Aurora,
+2013-11-27,BJs,Burger,Aurora,
+2013-11-28,PTO,PTO,Aurora,
+2013-11-29,PTO,PTO,Aurora,
+2013-12-02,Chipotle,Burrito,Denver,Carnitas
+2013-12-03,Lands End,Pizza,Dodgeville,
+2013-12-04,Lands End,Pizza,Dodgeville,
+2013-12-05,Lands End,Burger,Dodgeville,
+2013-12-06,Illegal Pete's,Burrito,Denver,Green Chile
+2013-12-09,Lands End,Pizza,Dodgeville,
+2013-12-10,Lands End,Burger,Dodgeville,
+2013-12-11,Lands End,Bagel,Dodgeville,
+2013-12-12,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2013-12-13,Red Robin,Burger,Aurora,
+2013-12-16,Illegal Pete's,Burrito,Denver,Green Chile
+2013-12-17,Lands End,Burger,Dodgeville,
+2013-12-18,Lands End,Pizza,Dodgeville,Pepperoni
+2013-12-19,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2013-12-20,Dominos,Pizza,Denver,Pepperoni
+2013-12-23,BJs,Burger,Aurora,
+2013-12-24,Wendy's,Burger,Aurora,
+2013-12-25,PTO,PTO,Aurora,
+2013-12-26,CiCi's,Pizza,Aurora,
+2013-12-27,Chick-fil-A,Sandwich,Aurora,
+2013-12-30,La Sandia,Burrito,Denver,Pork
+2013-12-31,Chipotle,Burrito,Aurora,Pork
+2014-01-01,,,,
+2014-01-02,Marriott,Sandwich,Indianapolis,Turkey
+2014-01-03,Marriott,Burrito,Indianapolis,Steak
+2014-01-06,Chipotle,Burrito,Denver,Pork
+2014-01-07,Lands End,Pizza,Dodgeville,Pepperoni
+2014-01-08,Lands End,Pizza,Dodgeville,Pepperoni
+2014-01-09,Bob's Bitchin' BBQ,BBQ,Dodgeville,Pork
+2014-01-10,Lark Burger,Burger,Denver,
+2014-01-13,Illegal Pete's,Burrito,Denver,Green Chile
+2014-01-14,Lands End,Pizza,Dodgeville,Cheese
+2014-01-15,Lands End,,Dodgeville,
+2014-01-16,Bob's Bichin' BBQ,BBQ,Dodgeville,
+2014-01-17,La Fogata,Burrito,Denver,Chorizo
+2014-01-20,Chipotle,Burrito,Denver,Carnitas
+2014-01-21,Noodles & Company,Mac & Cheese,Denver,
+2014-01-22,Jimmy John's,Sandwich,Denver,Italian
+2014-01-23,Red Robin,Burger,Denver,
+2014-01-24,Big City,Burrito,Denver,Potato
+2014-01-27,Lands End,Sandwich,Dodgeville,Sloppy Joe
+2014-01-28,Lands End,Pizza,Dodgeville,Chicken
+2014-01-29,Bobs Bitchin BBQ,BBQ,Dodgeville,
+2014-01-30,Chipotle,Burrito,Aurora,Carnitas
+2014-01-31,McDonalds,Burger,Aurora,
+2014-02-03,Noodles & Company,Mac & Cheese,Denver,
+2014-02-04,Lands End,Pizza,Dodgeville,Pepperoni
+2014-02-05,Lands End,Sandwich,Dodgeville,Ham
+2014-02-06,Lands End,Burger,Dodgeville,
+2014-02-07,Illegal Pete's,Burrito,Denver,Green Chile
+2014-02-10,Chipotle,Burrito,Denver,Carnitas
+2014-02-11,Lands End,Pizza,Dodgeville,Pepperoni
+2014-02-12,Lands End,Sandwich,Dodgeville,Turkey Bacon
+2014-02-13,Lands End,Sandwich,Dodgeville,Ham
+2014-02-14,Big City,Burrito,Aurora,Potato
+2014-02-17,,,Denver,
+2014-02-18,Lands End,Sandwich,Dodgeville,Ham
+2014-02-19,Lands End,Sandwich,Dodgeville,Turkey & Ham
+2014-02-20,,,Dodgeville,
+2014-02-21,Live Basil,Pizza,Denver,Pepperoni
+2014-02-24,Lands End,Sandwich,Dodgeville,Sloppy Joe
+2014-02-25,Lands End,Burger,Dodgeville,
+2014-02-26,Lands End,Sandwich,Dodgeville,Turkey & Ham
+2014-02-27,Bob's Bitchin' BBQ,BBQ,Dodgeville,Pork
+2014-02-28,Chipotle,Burrito,Aurora,Carnitas
+2014-03-03,Lands End,Pizza,Dodgeville,
+2014-03-04,Lands End,Pizza,Dodgeville,
+2014-03-05,Lands End,Sandwich,Dodgeville,Ham
+2014-03-06,Lands End,Sandwich,Dodgeville,Turkey
+2014-03-07,Red Robin,Burger,Aurora,
+2014-03-10,Lands End,Sandwich,Dodgeville,Sloppy Joe
+2014-03-11,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2014-03-12,Lands End,Potato,Dodgeville,
+2014-03-13,Illegal Pete's,Burrito,Denver,Green Chile
+2014-03-14,Big City,Burrito,Denver,Potato
+2014-03-17,Chipotle,Burrito,Denver,Carnitas
+2014-03-18,Lands End,Burger,Dodgeville,
+2014-03-19,Lands End,Sandwich,Dodgeville,Ham
+2014-03-20,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2014-03-21,Chipotle,Burrito,Denver,Carnitas
+2014-03-24,Lands End,Pizza,Dodgeville,
+2014-03-25,,,Madison,
+2014-03-26,Lands End,Sandwich,Dodgeville,Ham
+2014-03-27,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2014-03-28,Arby's,Sandwich,Aurora,roast beef
+2014-03-31,Lands End,Quesadilla,Dodgeville,
+2014-04-01,Lands End,Burger,Dodgeville,
+2014-04-02,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2014-04-03,Lark Burger,Burger,Denver,
+2014-04-04,Taco Bell,Burrito,Aurora,
+2014-04-07,Illegal Pete's,Burrito,Denver,
+2014-04-08,Tropical Smoothie Cafe,Smoothie,Denver,
+2014-04-09,,,Aurora,
+2014-04-10,,,Aurora,
+2014-04-11,La Fogata,Tacos,Denver,beef
+2014-04-14,Lands End,Sandwich,Dodgeville,Ham
+2014-04-15,Lands End,Sandwich,Dodgeville,Turkey & Ham
+2014-04-16,Lands End,Sandwich,Dodgeville,Roast Beef
+2014-04-17,Bob's Bitchin' BBQ,BBQ,Dodgeville,Pork
+2014-04-18,Big City Burrito,Burrito,Auora,Potato
+2014-04-21,Lands End,Sandwich,Dodgeville,Ham
+2014-04-22,Lands End,Burger,Dodgeville,
+2014-04-23,Lands End,Sandwich,Dodgeville,Ham
+2014-04-24,Bob's Bitchin' BBQ,BBQ,Dodgeville,Pork
+2014-04-25,McDonald's,Burger,Denver
+2014-04-28,Lands End,Sandwich,Dodgeville,Ham
+2014-04-29,Lands End,Sandwich,Dodgeville,Ham
+2014-04-30,Big City,Burrito,Denver,Potato
+2014-05-01,Illegal Pete's,Burrito,Denver,Green Chile
+2014-05-02,Big City,Burrito,Denver,Potato
+2014-05-05,Lark Burger,Burger,Denver,
+2014-05-06,Lands End,Sandwich,Dodgeville,Ham
+2014-05-07,Lands End,Sandwich,Dodgeville,Turkey Ham
+2014-05-08,Donatos,Pizza,Dayton,
+2014-05-09,Five Guys,Burger,Dayton,
+2014-05-12,Noodles & Company,Mac & Cheese,Denver,
+2014-05-13,Lands End,Pork,Dodgeville,
+2014-05-14,Lands End,Sandwich,Dodgeville,Ham
+2014-05-15,Bob's Bitchin' BBQ,BBQ,Dodgeville,
+2014-05-16,Firehouse Subs,Sandwich,Denver,Pastrami
+2014-05-19,Illegal Pete's,Burrito,Denver,Green Chile
+2014-05-20,Red Robin,Burger,Denver,
+2014-05-21,Big City Burrito,Burrito,Denver,Potato
+2014-05-22,Subway,Sandwich,Denver,
+2014-05-23,Pizza Hut,Pizza,Aurora,
+2014-05-26,PTO,PTO,Aurora,
+2014-05-27,Big City Burrito,Burrito,Denver,Potato
+2014-05-28,Lands End,Sandwich,Dodgeville,Ham
+2014-05-29,Lands End,Sandwich,Dodgeville,Ham
+2014-05-30,Noodles & Company,Mac & Cheese,Denver,
+2014-06-02,Lands End,Sandwich,Dodgeville,Ham
+2014-06-03,Lands End,Sandwich,Dodgeville,Turkey Ham
+2014-06-04,Chick-fil-A,Sandwich,Aurora,Chicken
+2014-06-05,Big City,Burrito,Denver,Potato
+2014-06-06,Zanitas,Burrito,Denver,Carnitas
+2014-06-09,Lands End,Pizza,Dodgeville,Pepperoni
+2014-06-10,Lands End,Sandwich,Dodgeville,
+2014-06-11,Lands End,Burger,Dodgeville,
+2014-06-12,Lands End,Sandwich,Dodgeville,
+2014-06-13,,,Denver,
+2014-06-16,hybris,mac & cheese,Chicago,
+2014-06-17,hybris,fish,Chicago,
+2014-06-18,Chipotle,Burrito,Denver,Carnitas
+2014-06-19,Big City Burrito,Burrito,Denver,Potato
+2014-06-20,Which Wich,Sandwich,Denver,Ham
+2014-06-23,Lands End,Sandwich,Dodgeville,Turkey Ham
+2014-06-24,Lands End,Burger,Dodgeville,
+2014-06-25,Lands End,Sandwich,Dodgeville,Ham
+2014-06-26,Lands End,Sandwich,Dodgeville,Turkey Ham
+2014-06-27,Big City,Burrito,Denver,Potato
+2014-06-30,Lands End,Sandwich,Dodgeville,Turkey Ham
+2014-07-01,Lands End,Sandwich,Dodgeville,Turkey Ham
+2014-07-02,Brother's BBQ,BBQ,Denver,Hot Links
+2014-07-03,Big City,Burrito,Denver,Potato
+2014-07-04,HOUSE,Burger,Denver,
+2014-07-07,Chipotle,Burrito,Denver,Carnitas
+2014-07-08,Lands End,Sandwich,Dodgeville,Ham
+2014-07-09,Lands End,Sandwich,Dodgeville,Ham
+2014-07-10,Lands End,Gyros,Dodgeville,
+2014-07-11,Big City,Burrito,Denver,Potato
