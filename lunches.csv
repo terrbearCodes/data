@@ -535,7 +535,7 @@ Day,Location,Food,City,Extra
 2015-01-22,SAP,Pizza,Waldorf,
 2015-01-23,SAP,Pork,Waldorf,
 2015-01-26,Subway,Sandwidch,Atlanta,
-2015-01-27,BBQ,Jim & Nick's,Denver,
+2015-01-27,Jim & Nick's,BBQ,Denver,
 2015-01-28,Big City,Burrito,Denver,Breakfast
 2015-01-29,Dominos,Pizza,Denver,
 2015-01-30,Chipotle,Burrito,Denver,Carnitas
@@ -583,3 +583,4 @@ Day,Location,Food,City,Extra
 2015-03-31,Lark Burger,Burger,Denver,
 2015-04-01,Subway,Sandwich,Denver,
 2015-04-02,Big City,Burrito,Denver,Breakfast
+2015-04-03,Jim & Nick's,BBQ,Denver,
