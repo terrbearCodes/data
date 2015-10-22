@@ -17,7 +17,7 @@ Day,Location,Food,City,Extra
 2013-01-28,Whole Foods,Burrito,Denver, (Chicken)
 2013-01-29,Whole Foods,Sandwich,Denver,
 2013-01-30,Lark Burger,Burger,Denver,
-2013-01-31,Illegal Pete's,Burrito,Denver, (Green Chile)
+2013-01-31,Illegal Pete's,Burrito,Denver, (Green Chile)f
 2013-02-01,zPizza,Pizza,Denver,
 2013-02-04,Whole Foods,Pizza,Denver,
 2013-02-05,Chipotle,Burrito,Denver, (Steak)
@@ -726,3 +726,4 @@ Day,Location,Food,City,Extra
 2015-10-19,Arbys,Sandwich,Parker,Roast Beef
 2015-10-20,Lark Burger,Burger,Denver,
 2015-10-21,Big City,Burrito,Denver,Breakfast
+2015-10-22,Freestyle,Pizza,Denver,
